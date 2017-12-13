@@ -2,6 +2,7 @@
 !README.md
 !.gitignore
 !master.zsh
+!deploy_mizrex.zsh
 !src/
 !*.zsh
 !*.sh
